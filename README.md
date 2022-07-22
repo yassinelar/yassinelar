@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yassinelar
-- 👀 I’m a Software Engineer Intern at Planisense (ex-Redlog)
+- 👋 Hi, I’m Yassine Laribi
+- 👀 I’m a Software Engineer intern at Planisense (ex-Redlog), in Paris
 - 📫 How to reach me yassinelar98@gmail.com
 
 <!---
